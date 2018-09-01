@@ -1,13 +1,12 @@
-$('body').css("background-color", "#964f8e");
+$('body').css({"background-color": "#964f8e",
+				"font-family": "verdana",
+				 "margin":"auto",
+				"font-size": "15px"});
 
-$('body').css("font-family", "verdana");
+$('fieldset').css({"background-color": "white",
+					"width": "600px",
+					"margin-top": "160px",
+					"margin-left": "300px"});
 
-$('body').css("font-size", "15px");
+$('h1').css("text-aligin","center");
 
-$('fieldset').css("background-color", "white");
-
-$('fieldset').css("width", "600px");
-
-$('fieldset').css("margin-left", "300px");
-
-$('h1').css("text-aligin", "center");
