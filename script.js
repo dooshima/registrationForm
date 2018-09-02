@@ -6,7 +6,7 @@ $('body').css({"background-color": "#964f8e",
 $('fieldset').css({"background-color": "white",
 					"width": "600px",
 					"margin-top": "160px",
-					"margin-left": "300px"});
+					"margin-left": "200px"});
 
 $('h1').css("text-aligin","center");
 
